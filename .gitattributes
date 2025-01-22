@@ -4,3 +4,4 @@ blabla.aaa filter=lfs diff=lfs merge=lfs -text
 *.md filter=lfs diff=lfs merge=lfs -text
 *.aaa filter=lfs diff=lfs merge=lfs -text
 *.bla filter=lfs diff=lfs merge=lfs -text
+blabla.new filter=lfs diff=lfs merge=lfs -text
